@@ -1,0 +1,5 @@
+<shape android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#00FF5722" /> <!-- Thêm '00' đầu tiên để chỉ định alpha, trong suốt -->
+    <corners android:radius="999dp" />
+</shape>
